@@ -106,6 +106,7 @@ An official **Android App Version** of ROM Flasher Tool is available that operat
 ## 🚀 Complete Feature Overview
 
 * **🍏 Apple Liquid Glass Dark UI:** Modern, ultra-responsive frosted glass theme with real-time HUD device diagnostics.
+* **✨ In-App 1-Click Auto-Updater:** Automatically detects new releases directly from GitHub, displays an Apple Liquid Glass update pill badge, and replaces the running executable in-place without manual downloads.
 * **⚡ 1-Click Auto Flasher:** Built-in Anti-Rollback (ARB) bypass, BrickShield codename validation, and live fastboot log terminal.
 * **🎯 Partition Flasher:** Flashes `boot`, `init_boot`, `recovery` (TWRP/OrangeFox), `vbmeta` (with disable AVB/DM-Verity), `vendor_boot`, `dtbo`, and `super`.
 * **🛡️ Universal Debloater:** Safe User 0 debloating with Xiaomi HyperOS/MIUI SecurityException bypass.
