@@ -8,10 +8,10 @@
 [![Release](https://img.shields.io/github/v/release/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC?color=00e5ff&style=for-the-badge&logo=windows)](https://github.com/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC/releases/latest)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Rohit%20Bhai-red?style=for-the-badge&logo=youtube)](https://youtube.com/@RohitBhai)
 [![Website](https://img.shields.io/badge/Website-romflasher.in-blue?style=for-the-badge&logo=google-chrome)](https://romflasher.in)
-[![Android OTG Tool](https://img.shields.io/badge/Android%20OTG%20Tool-No%20PC%20Required-success?style=for-the-badge&logo=android)](https://github.com/Rohit-Bhai-Youtube/rom-flasher-tool)
+[![Android OTG Version](https://img.shields.io/badge/Android%20OTG%20Tool-No%20PC%20Required-success?style=for-the-badge&logo=android)](https://github.com/Rohit-Bhai-Youtube/rom-flasher-tool)
 
 <p align="center">
-  <b>1-Click Fastboot Flasher</b> • <b>Anti-Rollback (ARB) Bypass</b> • <b>Payload Dumper Studio</b> • <b>Official Firmware Hub</b> • <b>Debloater & OBB Backup</b> • <b>Root Studio</b>
+  <b>1-Click Fastboot Flasher</b> • <b>Anti-Rollback (ARB) Bypass</b> • <b>Payload Dumper Studio</b> • <b>Official Firmware Hub</b> • <b>Universal Debloater & OBB Backup</b> • <b>Root Studio</b>
 </p>
 
 [📥 Download Latest .EXE](https://github.com/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC/releases/latest) • [📱 Phone-to-Phone Version (No PC)](https://github.com/Rohit-Bhai-Youtube/rom-flasher-tool) • [📺 YouTube Channel (@RohitBhai)](https://youtube.com/@RohitBhai)
@@ -20,40 +20,40 @@
 
 ---
 
-## 📱 PC नहीं है? कोई बात नहीं! फोन से भी फ्लैश कर सकते हैं! (No PC? Use Phone-to-Phone OTG!)
+## 📱 Don't Have a PC? Flash Phone-to-Phone over USB-OTG!
 
-> **💡 अगर आपके पास PC या Laptop नहीं है, तो भी चिंता की कोई बात नहीं है! आप सीधे अपने एक Android फोन से दूसरे फोन को USB-OTG केबल लगाकर पूरा ROM, Recovery और Root फ्लैश कर सकते हैं!**
+> **💡 No PC or laptop? No problem! You can flash Fastboot ROMs, custom recoveries, and root directly from one Android phone to another using a USB-OTG cable!**
 
-मैंने इसी ROM Flasher Tool का एक **Android App Version** भी बनाया है, जो बिना किसी कंप्यूटर और बिना किसी Termux के सीधे मोबाइल से काम करता है:
+An official **Android App Version** of ROM Flasher Tool is available that operates completely standalone without needing a computer or Termux:
 
-👉 **[📱 Download ROM Flasher Tool for Android (No PC / USB-OTG Version)](https://github.com/Rohit-Bhai-Youtube/rom-flasher-tool)**
+👉 **[📱 Download ROM Flasher Tool for Android (No PC / USB-OTG)](https://github.com/Rohit-Bhai-Youtube/rom-flasher-tool)**
 
-* **सुविधाएँ:** Phone-to-Phone USB OTG Fastboot Flashing, EFS/IMEI Backup, Stock ROM Downloader, Debloater, और 1-Click Rooting.
+* **Features:** Android-to-Android USB OTG Fastboot flashing, EFS/IMEI backup & restore, stock ROM downloader, debloater, and 1-click rooting.
 
 ---
 
-## 📸 Screenshots & Detailed Feature Walkthrough
+## 📸 Screenshots & Feature Walkthrough
 
 ---
 
 ### 1. ⚡ 1-Click Auto Flasher & Real-Time Apple HUD (`ROM & Partitions`)
-* **Real-Time Apple Glass HUD:** सबसे ऊपर फोन का रियल-टाइम स्टेटस दिखता है—Device Model (`POCO X7 Pro`), Serial, Battery Level (`59% ⚡`), Active Slot (`Slot A`), Android Version (`Android 16`), Security Patch, Bootloader Status (`UNLOCKED`), और 1-Click Quick Reboot मेनू।
-* **1-Click Auto Flasher:** किसी भी Fastboot ROM (`.tgz`, `.zip`, `.tar`, `.7z`) या फोल्डर को सेलेक्ट करते ही यह अपने-आप आर्काइव डिटेक्ट करता है और **Anti-Rollback (ARB) Bypass** लगाकर फ्लैशिंग शुरू कर देता है, जिससे फोन हार्ड-ब्रिक होने से बचता है।
-* **Individual Partition Flasher:** Apple Liquid Glass ड्रॉपडाउन से किसी भी ख़ास पार्टिशन (`boot`, `init_boot`, `recovery`, `vbmeta`, `vendor_boot`, `super`) को चुनकर कस्टम इमेज सीधे फ्लैश या टेस्ट बूट (`Boot Image Only`) कर सकते हैं।
-* **ADB Sideload:** रिकवरी मोड में सीधे OTA या ROM zip पैकेज साइडलोड करने की सुविधा।
+* **Real-Time Apple Glass HUD:** Displays live device diagnostics at the top bar—Device Codename (`POCO X7 Pro`), Serial number, Battery Level (`59% ⚡`), Active Slot (`Slot A`), Android Version (`Android 16`), Security Patch Level, Bootloader Lock Status (`UNLOCKED`), and Quick Reboot options.
+* **1-Click Auto Flasher:** Supports Fastboot ROM archives (`.tgz`, `.zip`, `.tar`, `.7z`) and extracted folders. Automatically applies **Anti-Rollback (ARB) Bypass** to prevent downgrade bricking.
+* **Individual Partition Flasher:** Apple Liquid Glass selector to directly flash individual partitions (`boot`, `init_boot`, `recovery`, `vbmeta` with AVB disable, `vendor_boot`, `super`) or test images safely with `Boot Image Only`.
+* **ADB Sideload:** Push and install OTA update zip files directly in Recovery Sideload mode.
 
 <div align="center">
-  <img src="screenshots/01_rom_and_partitions_flasher.png" width="98%" alt="ROM & Partitions Flasher Dashboard">
+  <img src="screenshots/01_rom_and_partitions_flasher.png" width="98%" alt="ROM and Partitions Flasher Dashboard">
 </div>
 
 ---
 
 ### 2. 📦 Payload Dumper Studio (`AOSP & Recovery ROMs`)
-* **Lightning-Fast Extraction:** किसी भी AOSP या Custom ROM (जैसे PixelOS, LineageOS, EvolutionX) की ZIP या `payload.bin` को लोड करके कुछ ही सेकंड्स में उसकी सभी पार्टिशन इमेजेस को एनालाइज़ और एक्सट्रैक्ट करें।
-* **Smart Quick-Filters:** 
-  * `Core Boot` बटन दबाते ही सिर्फ रूटिंग और बूटिंग के लिए ज़रूरी पार्टिशन्स (`boot.img`, `init_boot.img`, `vendor_boot.img`, `vbmeta.img`, `dtbo.img`) एक क्लिक में सेलेक्ट हो जाते हैं।
-  * `System & Vendor` बटन से सिस्टम पार्टिशन्स को सेलेक्ट कर सकते हैं।
-* **Selected Size & Multi-Extraction:** स्क्रीन पर साफ़ दिखता है कि कितने पार्टिशन्स सेलेक्ट हुए हैं और उनका कुल साइज़ कितना है (`Selected: 6 partitions (136.0 MB)`).
+* **High-Speed Partition Extraction:** Inspect and extract raw partition images directly from AOSP/Custom ROM zip archives (PixelOS, LineageOS, EvolutionX) containing `payload.bin`.
+* **Smart Quick-Filters:**
+  * **Core Boot:** Automatically selects essential partitions needed for rooting and recovery (`boot.img`, `init_boot.img`, `vendor_boot.img`, `vbmeta.img`, `dtbo.img`).
+  * **System & Vendor:** Quickly selects large OS partitions.
+* **Batch Extraction:** Select specific partitions or extract everything at once with real-time size computation (`Selected: 6 partitions (136.0 MB)`).
 
 <div align="center">
   <img src="screenshots/02_payload_dumper_studio.png" width="98%" alt="Payload Dumper Studio">
@@ -62,40 +62,40 @@
 ---
 
 ### 3. 🌐 Xiaomi, POCO & Redmi Official ROM Downloader (`Fastboot ROMs`)
-* **Direct High-Speed Official CDN Downloads:** Xiaomi के 370+ डिवाइसेस के लिए ऑफिशियल Fastboot (`.tgz`) और Recovery (`.zip`) ROMs सीधे हाई-स्पीड सर्वर से डाउनलोड करें।
-* **Region Filter Pills:** All Regions, India (IN), Global (MI), Europe (EEA), China (CN), Indonesia (ID), Russia (RU), Turkey (TR), Taiwan (TW) के लिए 1-क्लिक रीजन फिल्टर्स।
-* **Accurate Android Badges:** हर वर्ज़न के साथ उसका सटीक Android वर्ज़न (जैसे `ANDROID 16`, `ANDROID 15`) और रिलीज डेट दिखती है।
-* **Direct Actions:** `⚡ Fast Download (.tgz)`, `🌐 Browser / IDM` (लिंक को IDM या ब्राउज़र में खोलने के लिए), और `📥 Boot Only` (पूरी 8-10 GB ROM डाउनलोड किए बिना सिर्फ `boot.img` और `init_boot.img` एक्सट्रैक्ट करने के लिए)।
+* **Official High-Speed CDN Downloads:** Instant search across 370+ Xiaomi, Redmi, and POCO devices to download official Fastboot (`.tgz`) and Recovery (`.zip`) packages directly from official CDN servers.
+* **Region Filtering Pills:** Quick toggle filters for All Regions, India (IN), Global (MI), Europe (EEA), China (CN), Indonesia (ID), Russia (RU), Turkey (TR), and Taiwan (TW).
+* **Accurate Android Badges:** Correctly resolves base Android versions (`ANDROID 16`, `ANDROID 15`) and release dates.
+* **Direct Actions:** `⚡ Fast Download (.tgz)`, `🌐 Browser / IDM` (opens CDN direct links in IDM or web browser), and `📥 Boot Only` (extracts `boot.img` and `init_boot.img` without downloading the full 10GB archive).
 
 <div align="center">
-  <img src="screenshots/03_fastboot_roms_firmware_hub.png" width="98%" alt="Fastboot ROMs and Firmware Downloader">
+  <img src="screenshots/03_fastboot_roms_firmware_hub.png" width="98%" alt="Fastboot ROMs and Firmware Hub">
 </div>
 
 ---
 
-### 4. 🛡️ Universal APK Installer, Debloater & Game OBB Backup Engine (`APK & Debloater`)
-* **Universal APK / APKS / XAPK Installer:** किसी भी सिंगल APK, Split APKs, या XAPK बंडल को Android 14/15/16 टारगेट SDK लिमिटेशंस को बाईपास करके 1-क्लिक में इंस्टॉल करें।
-* **Android Debloater & App Manager:**
-  * फोन के सभी 400+ ऐप्स को सिस्टम, यूजर और सेफ ब्लोटवेयर में ऑटो-कैटेगराइज़ करता है।
-  * **Xiaomi HyperOS / MIUI Security Bypass:** बिना किसी सिम कार्ड या MIUI Security Settings की पाबंदी के ब्लोटवेयर को सेफली User 0 के लिए फ्रीज़/अनइंस्टॉल करता है।
-  * **Per-App Inline Action Buttons:** हर ऐप के आगे डायरेक्ट `🚫 Disable`, `✅ Enable`, `💾 Backup`, और `🗑️ Uninstall` बटन उपलब्ध हैं।
-* **Full Game & OBB Backup:** गेम का बैकअप लेते समय न सिर्फ Split APKs बल्कि पूरा Game OBB फोल्डर (`/sdcard/Android/obb/<pkg>`), मीडिया डेटा, और 1-क्लिक ऑटो-रिस्टोर स्क्रिप्ट (`Restore_App_And_Data.bat`) डेस्कटॉप स्टोरेज फ़ोल्डर में ऑटोमैटिकली सेव हो जाती है।
+### 4. 🛡️ Universal APK Installer, Debloater & Game OBB Backup (`APK & Debloater`)
+* **Universal Package Installer:** Installs standard APK, split APK (APKS), and XAPK packages, bypassing Android 14/15/16 target SDK installation blocks.
+* **Universal Android Debloater:**
+  * Categorizes 400+ installed packages into System Apps, User Apps, Safe Bloatware, and Disabled Apps.
+  * **HyperOS / MIUI Bypass:** Freezes and uninstalls bloatware safely for User 0 even when Xiaomi USB debugging security restrictions are active.
+  * **Inline Action Buttons:** Direct per-app buttons: `🚫 Disable`, `✅ Enable`, `💾 Backup`, and `🗑️ Uninstall`.
+* **Complete Game OBB Backup Engine:** Backs up Split APKs, full Game OBB directories (`/sdcard/Android/obb/<pkg>/`), and Media storage. Auto-generates a 1-click `Restore_App_And_Data.bat` script inside each backup folder for effortless offline reinstallation.
 
 <div align="center">
-  <img src="screenshots/04_apk_installer_and_debloater.png" width="98%" alt="APK Installer, Debloater and Game Backup">
+  <img src="screenshots/04_apk_installer_and_debloater.png" width="98%" alt="APK Installer, Debloater and Game OBB Backup">
 </div>
 
 ---
 
 ### 5. 🧪 1-Click Root Studio & Boot Extractor (`Root Studio`)
 * **Multi-Framework Root Injection:**
-  * **KernelSU:** कर्नल-मोड रूटिंग (मिनिमल फुटप्रिंट और बेहतरीन प्राइवेसी)।
-  * **Magisk:** यूनिवर्सल सिस्टमलेस रूट विथ Zygisk और मॉड्यूल सपोर्ट।
-  * **APatch:** KernelPatch बेस्ड सिस्टमलेस रूट विथ SuperKey ऑथराइजेशन।
-  * **SukiSU Ultra:** एडवांस्ड KernelSU फोर्क विथ एन्हांस्ड मॉड्यूल कैपेबिलिटी।
-* **1-Click Install Root:** खाली इमेज देने पर ऑटोमैटिकली डिवाइस से बूट इमेज फेच करके पैच और फ्लैश करता है।
-* **Download Stock Boot:** 1-क्लिक में बिना पूरी ROM डाउनलोड किए फोन का ऑफिशियल स्टॉक `boot.img` निकालें।
-* **Clean Root Uninstaller:** 1-क्लिक में रूट पूरी तरह अनइंस्टॉल करके डिवाइस को क्लीन स्टॉक स्टेट में रीस्टोर करता है।
+  * **KernelSU:** Kernel-level root with minimal system footprint and per-app su control.
+  * **Magisk:** Universal systemless root with full Zygisk and module support.
+  * **APatch:** KernelPatch-based systemless root with SuperKey authorization.
+  * **SukiSU Ultra:** Enhanced KernelSU fork with advanced module support.
+* **1-Click Auto Root:** Automatically patches stock boot images and flashes them via Fastboot.
+* **Download Stock Boot:** Pulls official stock `boot.img` for your exact model without downloading the entire ROM.
+* **Clean Root Uninstaller:** Restores pure stock boot images in 1 click to completely unroot the device.
 
 <div align="center">
   <img src="screenshots/05_root_studio_kernelsu_magisk.png" width="98%" alt="1-Click Root Studio">
@@ -103,9 +103,22 @@
 
 ---
 
-## 📥 Standalone Executable (.EXE) डाउनलोड करें
+## 🚀 Complete Feature Overview
 
-किसी इंस्टॉलेशन की ज़रूरत नहीं है। सीधे डाउनलोड करें और Windows 10 या 11 पर रन करें:
+* **🍏 Apple Liquid Glass Dark UI:** Modern, ultra-responsive frosted glass theme with real-time HUD device diagnostics.
+* **⚡ 1-Click Auto Flasher:** Built-in Anti-Rollback (ARB) bypass, BrickShield codename validation, and live fastboot log terminal.
+* **🎯 Partition Flasher:** Flashes `boot`, `init_boot`, `recovery` (TWRP/OrangeFox), `vbmeta` (with disable AVB/DM-Verity), `vendor_boot`, `dtbo`, and `super`.
+* **🛡️ Universal Debloater:** Safe User 0 debloating with Xiaomi HyperOS/MIUI SecurityException bypass.
+* **💾 Full App & Game Backup:** Captures Split APKs, complete Game OBB data, and Media storage with automatic 1-click restore batch scripts.
+* **📥 Official Firmware Hub:** Fast direct CDN downloads for 370+ Xiaomi/POCO/Redmi devices.
+* **🧪 Root Studio:** Integrated Magisk, KernelSU, APatch, and SukiSU Ultra root injection.
+* **🔌 Driver Assistant:** Universal WinUSB, Google Android Bootloader, MTK, and Qualcomm 9008 driver assistant.
+
+---
+
+## 📥 Download Standalone Executable (.EXE)
+
+No installation required. Download the pre-built `.exe` file and run directly on Windows 10 or Windows 11:
 
 👉 **[⬇️ Download Latest ROM Flasher Tool for PC (.exe)](https://github.com/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC/releases/latest)**
 
@@ -113,15 +126,15 @@
 
 ## 📺 Follow Rohit Bhai on YouTube!
 
-नए कस्टम रोम्स, रूटिंग गाइड्स, अनब्रिकिंग ट्यूटोरियल्स और स्टेप-बाय-स्टेप वीडियो देखने के लिए चैनल को ज़रूर सब्सक्राइब करें:
+Subscribe to the official YouTube channel for custom ROM reviews, rooting guides, device unbricking walkthroughs, and step-by-step tutorials:
 
 * **📺 YouTube Channel:** [Rohit Bhai (@RohitBhai)](https://youtube.com/@RohitBhai)
-* **🌐 Official Website:** [romflasher.in](https://romflasher.in) — *180+ स्टेप-बाय-स्टेप फ्लैशिंग गाइड्स, रिकवरी और कस्टम रोम्स.*
+* **🌐 Official Website:** [romflasher.in](https://romflasher.in) — *180+ detailed flashing guides, custom recoveries, and tutorials.*
 * **📱 Android-to-Android Flasher:** [ROM Flasher Tool for Android (No PC / USB-OTG)](https://github.com/Rohit-Bhai-Youtube/rom-flasher-tool)
 
 ---
 
 ## ⚖️ License & Credits
 
-This tool is created for educational, recovery, and development purposes.  
+This tool is created for educational, recovery, and development purposes. Always back up your personal data before flashing any device.  
 Developed with ❤️ by **Rohit Bhai**.
