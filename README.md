@@ -2,45 +2,60 @@
 
 <img src="assets/logo.png" width="125" alt="ROM Flasher Tool Logo">
 
-# ⚡ ROM Flasher Tool for PC (Windows)
-### *The Ultimate Android Flashing, Debloating, Rooting & Recovery Suite with Apple Liquid Glass UI*
+# ⚡ ROM Flasher Tool for PC (Windows) — v2.0.0
+### *The Ultimate Android Flashing, Wireless ADB, Mi Unlock, Rooting, EFS & EDL/BROM Unbrick Suite with Apple Liquid Glass UI*
 
 [![Release](https://img.shields.io/github/v/release/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC?color=00e5ff&style=for-the-badge&logo=windows)](https://github.com/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC/releases/latest)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Rohit%20Bhai-red?style=for-the-badge&logo=youtube)](https://youtube.com/@RohitBhai)
+[![Downloads](https://img.shields.io/github/downloads/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC/total?style=for-the-badge&logo=github&color=10b981)](https://github.com/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC/releases)
+[![Stars](https://img.shields.io/github/stars/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC?style=for-the-badge&logo=star&color=facc15)](https://github.com/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC/stargazers)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Rom%20Flasher-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Rom_Flasher)
 [![Website](https://img.shields.io/badge/Website-romflasher.in-blue?style=for-the-badge&logo=google-chrome)](https://romflasher.in)
 [![Android OTG Version](https://img.shields.io/badge/Android%20OTG%20Tool-No%20PC%20Required-success?style=for-the-badge&logo=android)](https://github.com/Rohit-Bhai-Youtube/rom-flasher-tool)
 
 <p align="center">
-  <b>1-Click Fastboot Flasher</b> • <b>Anti-Rollback (ARB) Bypass</b> • <b>Payload Dumper Studio</b> • <b>Official Firmware Hub</b> • <b>Universal Debloater & OBB Backup</b> • <b>Root Studio</b>
+  <b>1-Click Fastboot & ARB Bypass</b> • <b>Wireless ADB (QR & Auto-Discover)</b> • <b>Smart Mi Account Unlock</b> • <b>KernelSU / Magisk / APatch / SukiSU Ultra</b> • <b>EDL 9008 & MTK BROM Unbrick</b> • <b>Structured IMEI/EFS Studio</b>
 </p>
 
-[📥 Download Latest .EXE](https://github.com/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC/releases/latest) • [📱 Phone-to-Phone Version (No PC)](https://github.com/Rohit-Bhai-Youtube/rom-flasher-tool) • [📺 YouTube Channel (@RohitBhai)](https://youtube.com/@RohitBhai)
+[📥 **Download Latest v2.0.0 .EXE**](https://github.com/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC/releases/latest) • [📱 **No PC? Android-to-Android Version**](https://github.com/Rohit-Bhai-Youtube/rom-flasher-tool) • [📺 **YouTube (@Rom_Flasher)**](https://www.youtube.com/@Rom_Flasher) • [🌐 **Guides (romflasher.in)**](https://romflasher.in)
 
 </div>
 
 ---
 
+> ⭐ **Like this project? Give it a Star!** It helps more Android developers, modders, and technicians discover this free all-in-one toolkit.
+
+---
+
 ## 📱 Don't Have a PC? Flash Phone-to-Phone over USB-OTG!
 
-> **💡 No PC or laptop? No problem! You can flash Fastboot ROMs, custom recoveries, and root directly from one Android phone to another using a USB-OTG cable!**
-
-An official **Android App Version** of ROM Flasher Tool is available that operates completely standalone without needing a computer or Termux:
+> **💡 No PC or laptop? No problem!** You can flash Fastboot ROMs, custom recoveries, root, and backup EFS directly from **one Android phone to another** using a USB-OTG cable — **No PC, No Termux, No Host Root Required!**
 
 👉 **[📱 Download ROM Flasher Tool for Android (No PC / USB-OTG)](https://github.com/Rohit-Bhai-Youtube/rom-flasher-tool)**
 
-* **Features:** Android-to-Android USB OTG Fastboot flashing, EFS/IMEI backup & restore, stock ROM downloader, debloater, and 1-click rooting.
+* **Android App Features:** Android-to-Android USB-OTG Fastboot flashing, native Rust `payload.bin` dumper, stock ROM downloader, EFS/IMEI backup, debloater, Play Integrity bypass, and 1-click root.
+
+---
+
+## 🔥 What's New in v2.0.0
+
+| Module | What's Upgraded in v2.0.0 |
+| :--- | :--- |
+| **📶 Wireless ADB (Main Screen)** | Direct **Wireless ADB** pill next to Dynamic Island! Core UDP `5353` mDNS auto-discovery shows all nearby Wi-Fi phones by real name, plus **QR Code Pairing**, **6-digit Pairing Code**, **1-Click USB → Wi-Fi**, and saved IP history. |
+| **🔐 Smart Bootloader Unlock** | Auto-detects **Pixel/Nothing/OnePlus** (standard Fastboot unlock) vs **Xiaomi/POCO/Redmi** (opens integrated **Mi Account Login & Unlock** popup with server `encryptData` token). |
+| **🧪 1-Click Root Studio (Android 10–17)** | Full live-verified support for **KernelSU**, **Magisk**, **APatch**, & **SukiSU Ultra** (`ksud` + GKI `init_boot` / `boot` smart routing, spoofed bootloader lock bypass, & clean stock uninstaller). |
+| **🛡️ Structured IMEI & EFS Studio** | Instant pre-flight root verification, auto-detects **Device + Android Version + ROM** (`HyperOS 1–4`, `Infinity-X`, `ColorOS Port`, `crDroid`, etc.), **Rooted ADB `dd` restore** (bypasses MediaTek Fastboot Protected Partitions!), and **1-Click Synced Backup Picker Popup**. |
+| **💀 EDL 9008 & MTK BROM Unbrick** | Auto-scans Factory Unbrick ROM folders (`Firehose`, `rawprogram*.xml`, `patch*.xml`, `Scatter`, `DA`, `Auth`) and flashes hard-bricked Qualcomm & MediaTek devices over emergency COM ports. |
+| **📥 7.4s Stock Boot Extractor** | Prioritizes Aliyun Singapore OSS CDN + 256 KB chunked HTTP Range streaming to extract `boot.img` & `init_boot.img` in **~7 seconds** without downloading the full 6–8 GB ROM. |
+| **📊 Live Sideload % & Stability** | Real-time `adb sideload` `%` streaming, multi-device `-s <serial>` isolation, silent background subprocesses, and Apple Liquid Glass dropdowns across the entire UI. |
 
 ---
 
 ## 📸 Screenshots & Feature Walkthrough
 
----
-
-### 1. ⚡ 1-Click Auto Flasher & Real-Time Apple HUD (`ROM & Partitions`)
-* **Real-Time Apple Glass HUD:** Displays live device diagnostics at the top bar—Device Codename (`POCO X7 Pro`), Serial number, Battery Level (`59% ⚡`), Active Slot (`Slot A`), Android Version (`Android 16`), Security Patch Level, Bootloader Lock Status (`UNLOCKED`), and Quick Reboot options.
-* **1-Click Auto Flasher:** Supports Fastboot ROM archives (`.tgz`, `.zip`, `.tar`, `.7z`) and extracted folders. Automatically applies **Anti-Rollback (ARB) Bypass** to prevent downgrade bricking.
-* **Individual Partition Flasher:** Apple Liquid Glass selector to directly flash individual partitions (`boot`, `init_boot`, `recovery`, `vbmeta` with AVB disable, `vendor_boot`, `super`) or test images safely with `Boot Image Only`.
-* **ADB Sideload:** Push and install OTA update zip files directly in Recovery Sideload mode.
+### 1. ⚡ 1-Click Auto Flasher, Wireless ADB & Apple Glass HUD (`ROM & Partitions`)
+* **Real-Time Apple Glass HUD:** Displays live device diagnostics — Device Name, Codename, Serial, Battery Level, Active Slot (`Slot A/B`), Android Version, Security Patch, Bootloader Lock Status, Quick Reboot, and **📶 Wireless ADB** right beside the Dynamic Island.
+* **1-Click Auto Flasher:** Supports Fastboot ROM archives (`.tgz`, `.zip`, `.tar`, `.7z`) and extracted folders with **Anti-Rollback (ARB) Bypass** and **BrickShield** codename protection.
+* **Individual Partition Flasher & Live ADB Sideload:** Apple Liquid Glass selector for `boot`, `init_boot`, `recovery`, `vbmeta` (AVB disable), `vendor_boot`, `super`, plus live `%` `adb sideload` streaming.
 
 <div align="center">
   <img src="screenshots/01_rom_and_partitions_flasher.png" width="98%" alt="ROM and Partitions Flasher Dashboard">
@@ -49,11 +64,8 @@ An official **Android App Version** of ROM Flasher Tool is available that operat
 ---
 
 ### 2. 📦 Payload Dumper Studio (`AOSP & Recovery ROMs`)
-* **High-Speed Partition Extraction:** Inspect and extract raw partition images directly from AOSP/Custom ROM zip archives (PixelOS, LineageOS, EvolutionX) containing `payload.bin`.
-* **Smart Quick-Filters:**
-  * **Core Boot:** Automatically selects essential partitions needed for rooting and recovery (`boot.img`, `init_boot.img`, `vendor_boot.img`, `vbmeta.img`, `dtbo.img`).
-  * **System & Vendor:** Quickly selects large OS partitions.
-* **Batch Extraction:** Select specific partitions or extract everything at once with real-time size computation (`Selected: 6 partitions (136.0 MB)`).
+* **High-Speed Partition Extraction:** Inspect and extract raw partition images directly from AOSP/Custom ROM zip archives (`PixelOS`, `LineageOS`, `Evolution X`, `HyperOS`) containing `payload.bin`.
+* **Smart Quick-Filters:** 1-click **Core Boot** (`boot.img`, `init_boot.img`, `vendor_boot.img`, `vbmeta.img`, `dtbo.img`) or **System & Vendor** batch extraction with exact size readout.
 
 <div align="center">
   <img src="screenshots/02_payload_dumper_studio.png" width="98%" alt="Payload Dumper Studio">
@@ -62,10 +74,9 @@ An official **Android App Version** of ROM Flasher Tool is available that operat
 ---
 
 ### 3. 🌐 Xiaomi, POCO & Redmi Official ROM Downloader (`Fastboot ROMs`)
-* **Official High-Speed CDN Downloads:** Instant search across 370+ Xiaomi, Redmi, and POCO devices to download official Fastboot (`.tgz`) and Recovery (`.zip`) packages directly from official CDN servers.
-* **Region Filtering Pills:** Quick toggle filters for All Regions, India (IN), Global (MI), Europe (EEA), China (CN), Indonesia (ID), Russia (RU), Turkey (TR), and Taiwan (TW).
-* **Accurate Android Badges:** Correctly resolves base Android versions (`ANDROID 16`, `ANDROID 15`) and release dates.
-* **Direct Actions:** `⚡ Fast Download (.tgz)`, `🌐 Browser / IDM` (opens CDN direct links in IDM or web browser), and `📥 Boot Only` (extracts `boot.img` and `init_boot.img` without downloading the full 10GB archive).
+* **370+ Devices Supported:** Instant search across Xiaomi, Redmi, and POCO models for official Fastboot (`.tgz`) and Recovery (`.zip`) ROMs.
+* **Region Filters:** `ALL`, `India (IN)`, `Global (MI)`, `Europe (EEA)`, `China (CN)`, `Indonesia (ID)`, `Russia (RU)`, `Turkey (TR)`, `Taiwan (TW)`.
+* **7.4s Boot Extractor:** `📥 Boot Only` pulls `boot.img` & `init_boot.img` directly via HTTP Range requests without downloading the full ROM.
 
 <div align="center">
   <img src="screenshots/03_fastboot_roms_firmware_hub.png" width="98%" alt="Fastboot ROMs and Firmware Hub">
@@ -74,12 +85,9 @@ An official **Android App Version** of ROM Flasher Tool is available that operat
 ---
 
 ### 4. 🛡️ Universal APK Installer, Debloater & Game OBB Backup (`APK & Debloater`)
-* **Universal Package Installer:** Installs standard APK, split APK (APKS), and XAPK packages, bypassing Android 14/15/16 target SDK installation blocks.
-* **Universal Android Debloater:**
-  * Categorizes 400+ installed packages into System Apps, User Apps, Safe Bloatware, and Disabled Apps.
-  * **HyperOS / MIUI Bypass:** Freezes and uninstalls bloatware safely for User 0 even when Xiaomi USB debugging security restrictions are active.
-  * **Inline Action Buttons:** Direct per-app buttons: `🚫 Disable`, `✅ Enable`, `💾 Backup`, and `🗑️ Uninstall`.
-* **Complete Game OBB Backup Engine:** Backs up Split APKs, full Game OBB directories (`/sdcard/Android/obb/<pkg>/`), and Media storage. Auto-generates a 1-click `Restore_App_And_Data.bat` script inside each backup folder for effortless offline reinstallation.
+* **Universal Package Installer:** Installs `.apk`, `.apks` (Split APKs), and `.xapk`, bypassing Android 14/15/16/17 target SDK blocks.
+* **HyperOS / MIUI Safe Debloater:** Categorizes 400+ packages with User 0 safe disable/uninstall even under Xiaomi USB security restrictions.
+* **Complete Game OBB Backup:** Backs up Split APKs + `/sdcard/Android/obb/<pkg>/` + Media with auto-generated `Restore_App_And_Data.bat`.
 
 <div align="center">
   <img src="screenshots/04_apk_installer_and_debloater.png" width="98%" alt="APK Installer, Debloater and Game OBB Backup">
@@ -87,15 +95,9 @@ An official **Android App Version** of ROM Flasher Tool is available that operat
 
 ---
 
-### 5. 🧪 1-Click Root Studio & Boot Extractor (`Root Studio`)
-* **Multi-Framework Root Injection:**
-  * **KernelSU:** Kernel-level root with minimal system footprint and per-app su control.
-  * **Magisk:** Universal systemless root with full Zygisk and module support.
-  * **APatch:** KernelPatch-based systemless root with SuperKey authorization.
-  * **SukiSU Ultra:** Enhanced KernelSU fork with advanced module support.
-* **1-Click Auto Root:** Automatically patches stock boot images and flashes them via Fastboot.
-* **Download Stock Boot:** Pulls official stock `boot.img` for your exact model without downloading the entire ROM.
-* **Clean Root Uninstaller:** Restores pure stock boot images in 1 click to completely unroot the device.
+### 5. 🧪 1-Click Root Studio (`KernelSU`, `Magisk`, `APatch`, `SukiSU Ultra`)
+* **All 4 Major Root Frameworks:** Smart Android 10–17 GKI routing (`init_boot.img` for KernelSU/Magisk/SukiSU Ultra, `boot.img` for APatch & Legacy Android 10–12).
+* **Clean Root Uninstaller:** Removes all root manager APKs and restores clean stock `boot.img` / `init_boot.img` in 1 click.
 
 <div align="center">
   <img src="screenshots/05_root_studio_kernelsu_magisk.png" width="98%" alt="1-Click Root Studio">
@@ -103,39 +105,15 @@ An official **Android App Version** of ROM Flasher Tool is available that operat
 
 ---
 
-## 🚀 Complete Feature Overview
-
-* **🍏 Apple Liquid Glass Dark UI:** Modern, ultra-responsive frosted glass theme with real-time HUD device diagnostics.
-* **✨ In-App 1-Click Auto-Updater:** Automatically detects new releases directly from GitHub, displays an Apple Liquid Glass update pill badge, and replaces the running executable in-place without manual downloads.
-* **⚡ 1-Click Auto Flasher:** Built-in Anti-Rollback (ARB) bypass, BrickShield codename validation, and live fastboot log terminal.
-* **🎯 Partition Flasher:** Flashes `boot`, `init_boot`, `recovery` (TWRP/OrangeFox), `vbmeta` (with disable AVB/DM-Verity), `vendor_boot`, `dtbo`, and `super`.
-* **🛡️ Universal Debloater:** Safe User 0 debloating with Xiaomi HyperOS/MIUI SecurityException bypass.
-* **💾 Full App & Game Backup:** Captures Split APKs, complete Game OBB data, and Media storage with automatic 1-click restore batch scripts.
-* **📥 Official Firmware Hub:** Fast direct CDN downloads for 370+ Xiaomi/POCO/Redmi devices.
-* **🧪 Root Studio:** Integrated Magisk, KernelSU, APatch, and SukiSU Ultra root injection.
-* **🔌 Driver Assistant:** Universal WinUSB, Google Android Bootloader, MTK, and Qualcomm 9008 driver assistant.
-
----
-
 ## 📥 Download Standalone Executable (.EXE)
 
-No installation required. Download the pre-built `.exe` file and run directly on Windows 10 or Windows 11:
-
-👉 **[⬇️ Download Latest ROM Flasher Tool for PC (.exe)](https://github.com/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC/releases/latest)**
-
----
-
-## 📺 Follow Rohit Bhai on YouTube!
-
-Subscribe to the official YouTube channel for custom ROM reviews, rooting guides, device unbricking walkthroughs, and step-by-step tutorials:
-
-* **📺 YouTube Channel:** [Rohit Bhai (@RohitBhai)](https://youtube.com/@RohitBhai)
-* **🌐 Official Website:** [romflasher.in](https://romflasher.in) — *180+ detailed flashing guides, custom recoveries, and tutorials.*
-* **📱 Android-to-Android Flasher:** [ROM Flasher Tool for Android (No PC / USB-OTG)](https://github.com/Rohit-Bhai-Youtube/rom-flasher-tool)
+1. Download **`ROM_Flasher_Tool.exe`** from **[Latest Releases](https://github.com/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC/releases/latest)**.
+2. Run directly on **Windows 10 / Windows 11 (64-bit)** — no Python installation required.
+3. Built-in **1-Click Auto-Updater** notifies you whenever a newer release drops.
 
 ---
 
-## ⚖️ License & Credits
-
-This tool is created for educational, recovery, and development purposes. Always back up your personal data before flashing any device.  
-Developed with ❤️ by **Rohit Bhai**.
+<div align="center">
+  <b>Built with ❤️ by <a href="https://www.youtube.com/@Rom_Flasher">Rohit Bhai (@Rom_Flasher)</a></b><br>
+  <sub>If this tool saved your phone or time, please ⭐ Star this repository!</sub>
+</div>
