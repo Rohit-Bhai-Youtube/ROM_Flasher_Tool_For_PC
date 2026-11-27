@@ -13,8 +13,6 @@ def build():
     ui_data = f"ui{os.pathsep}ui"
     devices_data = f"xiaomi_devices.json{os.pathsep}."
     drivers_data = f"drivers{os.pathsep}drivers"
-    tools_data = f"tools{os.pathsep}tools"
-    root_tools_data = f"root_tools{os.pathsep}root_tools"
     
     cmd = [
         sys.executable,
@@ -27,8 +25,6 @@ def build():
         f"--add-data={ui_data}",
         f"--add-data={devices_data}",
         f"--add-data={drivers_data}",
-        f"--add-data={tools_data}",
-        f"--add-data={root_tools_data}",
         "--hidden-import=webview",
         "--hidden-import=webview.platforms.winforms",
         "--hidden-import=clr",
