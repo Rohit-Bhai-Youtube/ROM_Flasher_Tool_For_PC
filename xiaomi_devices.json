@@ -1,0 +1,1877 @@
+[
+  {
+    "codename": "mione_plus",
+    "name": "MI 1S",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "aries",
+    "name": "MI 2S",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "cancro",
+    "name": "MI 3 / Mi 4 / Mi 4 Lte Ct",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "pisces",
+    "name": "MI 3 TD",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "cancro_lte_ct",
+    "name": "MI 4 LTE CT",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "aqua",
+    "name": "MI 4S",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "ferrari",
+    "name": "MI 4i",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "gemini",
+    "name": "MI 5",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "odin",
+    "name": "MIX 4 / Xiaomi Mix 4",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "ruyi",
+    "name": "MIX Flip / Xiaomi Mix Flip",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "bixi",
+    "name": "MIX Flip 2 / Xiaomi Mix Flip 2",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "babylon",
+    "name": "MIX Fold 3 / Xiaomi Mix Fold 3",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "goku",
+    "name": "MIX Fold 4 / Xiaomi Mix Fold 4",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "umi",
+    "name": "Mi 10",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "monet",
+    "name": "Mi 10 Lite",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "vangogh",
+    "name": "Mi 10 Lite Zoom",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "cmi",
+    "name": "Mi 10 Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "cas",
+    "name": "Mi 10 Ultra",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "thyme",
+    "name": "Mi 10S",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "apollo",
+    "name": "Mi 10T / Mi 10T Pro / Mi 10T And Mi 10T Pro / Redmi K30S Ultra",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "venus",
+    "name": "Mi 11",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "courbet",
+    "name": "Mi 11 Lite 4G",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "renoir",
+    "name": "Mi 11 Lite 5G",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "renoir_jp",
+    "name": "Mi 11 Lite 5G Japan",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "star",
+    "name": "Mi 11 Pro / Ultra / Mi 11 Pro And Ultra / Mi 11 Ultra",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "mione",
+    "name": "Mi 1S",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "taurus",
+    "name": "Mi 2A",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "libra",
+    "name": "Mi 4c",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "meri",
+    "name": "Mi 5C",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "tiffany",
+    "name": "Mi 5X",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "capricorn",
+    "name": "Mi 5s",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "natrium",
+    "name": "Mi 5s Plus",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "sagit",
+    "name": "Mi 6",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "wayne",
+    "name": "Mi 6X",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "dipper",
+    "name": "Mi 8",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "ursa",
+    "name": "Mi 8 Explorer",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "platina",
+    "name": "Mi 8 Lite",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "equuleus",
+    "name": "Mi 8 Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "sirius",
+    "name": "Mi 8 SE",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "cepheus",
+    "name": "Mi 9",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "pyxis",
+    "name": "Mi 9 Lite / Mi Cc 9",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "crux",
+    "name": "Mi 9 Pro 5G",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "grus",
+    "name": "Mi 9 SE",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "tissot",
+    "name": "Mi A1",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "jasmine",
+    "name": "Mi A2",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "daisy",
+    "name": "Mi A2 Lite",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "laurel_sprout",
+    "name": "Mi A3",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "laurel",
+    "name": "Mi A3",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "vela",
+    "name": "Mi CC 9 Meitu Edition",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "laurus",
+    "name": "Mi CC 9e",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "lithium",
+    "name": "Mi MIX",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "chiron",
+    "name": "Mi MIX 2",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "polaris",
+    "name": "Mi MIX 2S",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "perseus",
+    "name": "Mi MIX 3",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "andromeda",
+    "name": "Mi MIX 3 5G",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "cetus",
+    "name": "Mi MIX Fold",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "hydrogen",
+    "name": "Mi Max",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "oxygen",
+    "name": "Mi Max 2",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "nitrogen",
+    "name": "Mi Max 3",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "helium",
+    "name": "Mi Max Prime",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "virgo",
+    "name": "Mi Note",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "tucana",
+    "name": "Mi Note 10 / Note 10 Pro / Mi Cc 9 Pro / Mi Note 10 And Note 10 Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "toco",
+    "name": "Mi Note 10 Lite",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "scorpio",
+    "name": "Mi Note 2",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "jason",
+    "name": "Mi Note 3",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "virgo_lte_ct",
+    "name": "Mi Note LTE CT",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "leo",
+    "name": "Mi Note Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "cappu",
+    "name": "Mi Pad 3",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "clover",
+    "name": "Mi Pad 4 (Plus)",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "lotus",
+    "name": "Mi Play",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "mocha",
+    "name": "MiPad 1",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "latte",
+    "name": "MiPad 2",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "angelicain",
+    "name": "POCO C31",
+    "brand": "POCO"
+  },
+  {
+    "codename": "frost",
+    "name": "POCO C40",
+    "brand": "POCO"
+  },
+  {
+    "codename": "blue",
+    "name": "POCO C61/Redmi A3",
+    "brand": "POCO"
+  },
+  {
+    "codename": "beryllium",
+    "name": "POCO F1",
+    "brand": "POCO"
+  },
+  {
+    "codename": "alioth",
+    "name": "POCO F3 / Redmi K40 / Mi 11X",
+    "brand": "POCO"
+  },
+  {
+    "codename": "munch",
+    "name": "POCO F4 / Redmi K40S",
+    "brand": "POCO"
+  },
+  {
+    "codename": "ingres",
+    "name": "POCO F4 GT / Redmi K50 Gaming / Redmi K50G",
+    "brand": "POCO"
+  },
+  {
+    "codename": "marble",
+    "name": "POCO F5 / Redmi Note 12 Turbo",
+    "brand": "POCO"
+  },
+  {
+    "codename": "mondrian",
+    "name": "POCO F5 Pro / Redmi K60",
+    "brand": "POCO"
+  },
+  {
+    "codename": "peridot",
+    "name": "POCO F6 / Redmi Turbo 3",
+    "brand": "POCO"
+  },
+  {
+    "codename": "zorn",
+    "name": "POCO F7 Pro / Redmi K80",
+    "brand": "POCO"
+  },
+  {
+    "codename": "athens_jp",
+    "name": "POCO F9 Pro Japan",
+    "brand": "POCO"
+  },
+  {
+    "codename": "songyuan_jp",
+    "name": "POCO F9 Ultra Japan",
+    "brand": "POCO"
+  },
+  {
+    "codename": "shiva",
+    "name": "POCO M2",
+    "brand": "POCO"
+  },
+  {
+    "codename": "gram",
+    "name": "POCO M2 Pro",
+    "brand": "POCO"
+  },
+  {
+    "codename": "citrus",
+    "name": "POCO M3",
+    "brand": "POCO"
+  },
+  {
+    "codename": "evergreen",
+    "name": "POCO M4 Pro 5G",
+    "brand": "POCO"
+  },
+  {
+    "codename": "rock",
+    "name": "POCO M5 / Redmi 11 Prime 4G",
+    "brand": "POCO"
+  },
+  {
+    "codename": "rosemary_p",
+    "name": "POCO M5S",
+    "brand": "POCO"
+  },
+  {
+    "codename": "emeraldr",
+    "name": "POCO M6 Pro",
+    "brand": "POCO"
+  },
+  {
+    "codename": "mist",
+    "name": "POCO M8 Power 5G / Redmi Note 17 5G",
+    "brand": "POCO"
+  },
+  {
+    "codename": "phoenixin",
+    "name": "POCO X2",
+    "brand": "POCO"
+  },
+  {
+    "codename": "surya",
+    "name": "POCO X3 / X3 NFC / POCO X3 Nfc",
+    "brand": "POCO"
+  },
+  {
+    "codename": "vayu",
+    "name": "POCO X3 Pro",
+    "brand": "POCO"
+  },
+  {
+    "codename": "xaga",
+    "name": "POCO X4 GT / Redmi K50i / Redmi Note 11T Pro",
+    "brand": "POCO"
+  },
+  {
+    "codename": "moonstone",
+    "name": "POCO X5 5G",
+    "brand": "POCO"
+  },
+  {
+    "codename": "duchamp",
+    "name": "POCO X6 Pro 5G / Redmi K70E",
+    "brand": "POCO"
+  },
+  {
+    "codename": "malachite",
+    "name": "POCO X7 / Redmi Note 14 Pro",
+    "brand": "POCO"
+  },
+  {
+    "codename": "rodin",
+    "name": "POCO X7 Pro / Redmi Turbo 4",
+    "brand": "POCO"
+  },
+  {
+    "codename": "darwin",
+    "name": "POCO X8s",
+    "brand": "POCO"
+  },
+  {
+    "codename": "HM2013022",
+    "name": "Redmi 1",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "wt98007",
+    "name": "Redmi 1",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "HM2013023",
+    "name": "Redmi 1 W",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "HM2013023_sg",
+    "name": "Redmi 1 W Singapore",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "selene",
+    "name": "Redmi 10 / 10 2022 / Redmi 10 2022 / Redmi 10 Prime",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "dandelion_c3l2",
+    "name": "Redmi 10A / 10A Sport",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "fog",
+    "name": "Redmi 10C",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "merlin",
+    "name": "Redmi 10X 4G / Redmi Note 9",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "atom",
+    "name": "Redmi 10X 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "bomb",
+    "name": "Redmi 10X Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "light",
+    "name": "Redmi 11 Prime 5G / POCO M4 5G / Redmi 10 5G / Redmi Note 11E",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "fire",
+    "name": "Redmi 12",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "sky",
+    "name": "Redmi 12 5G / POCO M6 Pro 5G / Redmi Note 12R",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "sky_jp",
+    "name": "Redmi 12 5G Japan",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "earth",
+    "name": "Redmi 12C / POCO C55",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "moon",
+    "name": "Redmi 13 / POCO M6",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "breeze",
+    "name": "Redmi 13 5G / POCO M6 Plus 5G / Redmi Note 13R",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "gale",
+    "name": "Redmi 13C / POCO C65",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "air",
+    "name": "Redmi 13R 5G / POCO M6 5G / Redmi 13C 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "flame",
+    "name": "Redmi 14C 5G / POCO M7 5G / Redmi 14R 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "flame_jp",
+    "name": "Redmi 14C 5G / POCO M7 5G Japan",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "lake",
+    "name": "Redmi 14C/17C/A3 Pro/POCO C75 / Redmi 17C / Redmi A3 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "creek",
+    "name": "Redmi 15 / POCO M7",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "spring",
+    "name": "Redmi 15 5G / M7 Plus / M8s 5G / POCO M7 Plus 5G / POCO M8S 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "spring_jp",
+    "name": "Redmi 15 5G / POCO M7 Plus 5G Japan",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "dew",
+    "name": "Redmi 15C / POCO C85",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "tornado",
+    "name": "Redmi 15C 5G / 15R 5G / 17C 5G / POCO C85 5G / Redmi 15R 5G / Redmi 17C 5G / Redmi Note 15R",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "leedsa",
+    "name": "Redmi 17 / POCO C95 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "steppe",
+    "name": "Redmi 17 5G / POCO M8x 5G / Redmi M100",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "somalia",
+    "name": "Redmi 17 5G / R70 5G / R70m 5G / POCO C85X 5G / Redmi 15A 5G / Redmi 17 5G China / Redmi A7 Pro 5G / Redmi R70 5G / Redmi R70M",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "leedsa_jp",
+    "name": "Redmi 17 Japan",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "armani",
+    "name": "Redmi 1S",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "HM2014011",
+    "name": "Redmi 1S TD 3G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "HM2014501",
+    "name": "Redmi 1S TD 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "wt86047",
+    "name": "Redmi 2",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "wt88047",
+    "name": "Redmi 2",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "HM2014811",
+    "name": "Redmi 2 LTE",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "HM2014813",
+    "name": "Redmi 2 LTE",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "wt86047_pro",
+    "name": "Redmi 2 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "wt88047_pro",
+    "name": "Redmi 2 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "lte26007",
+    "name": "Redmi 2A",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "ido",
+    "name": "Redmi 3",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "ido_xhdpi",
+    "name": "Redmi 3/3 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "land",
+    "name": "Redmi 3S",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "prada",
+    "name": "Redmi 4",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "markw",
+    "name": "Redmi 4 Prime",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "rolex",
+    "name": "Redmi 4A",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "santoni",
+    "name": "Redmi 4X",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "rosy",
+    "name": "Redmi 5",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "vince",
+    "name": "Redmi 5 Plus / Note 5",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "riva",
+    "name": "Redmi 5A",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "cereus",
+    "name": "Redmi 6",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "sakura",
+    "name": "Redmi 6 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "cactus",
+    "name": "Redmi 6A",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "onclite",
+    "name": "Redmi 7",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "pine",
+    "name": "Redmi 7A",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "olive",
+    "name": "Redmi 8",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "olivelite",
+    "name": "Redmi 8A",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "olivewood",
+    "name": "Redmi 8A Dual / Redmi 8A Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "cattail",
+    "name": "Redmi 9 / 9 Activ / Redmi 9 And 9 Activ",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "lancelot",
+    "name": "Redmi 9 Prime",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "dandelion",
+    "name": "Redmi 9A / 9i / 9A Sport / Redmi 10A / Redmi 10A Sport / Redmi 9A And 9At / Redmi 9A And 9I And 9A Sport",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "angelica",
+    "name": "Redmi 9C",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "angelican",
+    "name": "Redmi 9C NFC",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "ice",
+    "name": "Redmi A1 / A1+ / POCO C50",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "water",
+    "name": "Redmi A2 / A2+ / POCO C51",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "klein",
+    "name": "Redmi A3x",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "warm",
+    "name": "Redmi A4 5G / POCO C75 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "serenity",
+    "name": "Redmi A5 / A7 / POCO C71 / C81x / POCO C81X / Redmi A7",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "arctic",
+    "name": "Redmi A7 Pro / POCO C81 / C81 Pro / POCO C81 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "tiare",
+    "name": "Redmi Go",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "yili",
+    "name": "Redmi K Pad 2",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "athens",
+    "name": "Redmi K100 Pro / POCO F9 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "songyuan",
+    "name": "Redmi K100 Pro Max / POCO F9 Ultra",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "davinci",
+    "name": "Redmi K20",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "davinciin",
+    "name": "Redmi K20",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "raphaelin",
+    "name": "Redmi K20 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "raphael",
+    "name": "Redmi K20 Pro / Mi 9T Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "raphaels",
+    "name": "Redmi K20 Pro Premium Edition",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "phoenix",
+    "name": "Redmi K30 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "picasso",
+    "name": "Redmi K30 5G / Redmi K30I 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "lmi",
+    "name": "Redmi K30 Pro / POCO F2 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "cezanne",
+    "name": "Redmi K30 Ultra",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "picasso_48m",
+    "name": "Redmi K30i 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "ares",
+    "name": "Redmi K40 Gaming / POCO F3 Gt",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "haydn",
+    "name": "Redmi K40 Pro / Pro+ / Mi 11I / Mi 11X Pro / Redmi K40 Pro And Pro Plus",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "rubens",
+    "name": "Redmi K50",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "matisse",
+    "name": "Redmi K50 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "socrates",
+    "name": "Redmi K60 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "corot",
+    "name": "Redmi K60 Ultra / Xiaomi 13T Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "rembrandt",
+    "name": "Redmi K60E",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "vermeer",
+    "name": "Redmi K70 / POCO F6 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "manet",
+    "name": "Redmi K70 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "rothko",
+    "name": "Redmi K70 Ultra / Xiaomi 14T Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "miro",
+    "name": "Redmi K80 Pro / POCO F7 Ultra",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "dali",
+    "name": "Redmi K80 Ultra",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "annibale",
+    "name": "Redmi K90 / POCO F8 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "prague",
+    "name": "Redmi K90 Max",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "myron",
+    "name": "Redmi K90 Pro Max / POCO F8 Ultra",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "warsaw",
+    "name": "Redmi K90 Ultra",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "lcsh92_wet_tdd",
+    "name": "Redmi Note 1 TD",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "lcsh92",
+    "name": "Redmi Note 1 Td / Redmi Note 3G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "mojito",
+    "name": "Redmi Note 10",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "camellia",
+    "name": "Redmi Note 10 5G / Redmi Note 11SE / POCO M3 Pro 5G / Redmi Note 10T 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "curtana",
+    "name": "Redmi Note 10 Lite / Redmi Note 9 Pro And Redmi Note 10 / Redmi Note 9S",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "sweet",
+    "name": "Redmi Note 10 Pro / Pro Max",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "sweetin",
+    "name": "Redmi Note 10 Pro / Pro Max / Redmi Note 10 Pro And Pro Max",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "chopin",
+    "name": "Redmi Note 10 Pro 5G / POCO X3 Gt",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "rosemary",
+    "name": "Redmi Note 10S / Redmi Note 11 SE / POCO M5S",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "lilac",
+    "name": "Redmi Note 10T",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "camellian",
+    "name": "Redmi Note 10T / POCO M3 Pro / Redmi Note 10 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "lilac_jp",
+    "name": "Redmi Note 10T Japan",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "spes",
+    "name": "Redmi Note 11",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "selenes",
+    "name": "Redmi Note 11 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "spesn",
+    "name": "Redmi Note 11 NFC",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "pissarro",
+    "name": "Redmi Note 11 Pro / Pro+ / Redmi Note 11 Pro And Pro Plus / Redmi Note 11 Pro Plus 5G / Xiaomi 11I Hypercharge",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "vida",
+    "name": "Redmi Note 11 Pro 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "viva",
+    "name": "Redmi Note 11 Pro 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "veux",
+    "name": "Redmi Note 11 Pro 5G / POCO X4 Pro 5G / Redmi Note 11E Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "veux_jp",
+    "name": "Redmi Note 11 Pro 5G Japan",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "lightcm",
+    "name": "Redmi Note 11R",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "fleur",
+    "name": "Redmi Note 11S 4G / POCO M4 Pro 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "opal",
+    "name": "Redmi Note 11S 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "evergo",
+    "name": "Redmi Note 11T 5G / Redmi Note 11 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "topaz",
+    "name": "Redmi Note 12 4G / Redmi Note 12 4G Nfc",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "tapas",
+    "name": "Redmi Note 12 4G NFC",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "sunstone",
+    "name": "Redmi Note 12 5G / POCO X5 5G / Redmi Note 12R Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "ruby_kr",
+    "name": "Redmi Note 12 Pro / Pro+ 5G South Korea",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "sweet_k6a",
+    "name": "Redmi Note 12 Pro 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "ruby",
+    "name": "Redmi Note 12 Pro 5G / Pro+ 5G / Redmi Note 12 Discovery",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "redwood",
+    "name": "Redmi Note 12 Pro Speed / POCO X5 Pro 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "pearl",
+    "name": "Redmi Note 12T Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "sapphire",
+    "name": "Redmi Note 13",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "gold",
+    "name": "Redmi Note 13 5G / POCO X6 Neo 5G / Redmi Note 13R Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "sapphiren",
+    "name": "Redmi Note 13 NFC",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "emerald",
+    "name": "Redmi Note 13 Pro 4G / POCO M6 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "garnet",
+    "name": "Redmi Note 13 Pro 5G / POCO X6 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "zircon",
+    "name": "Redmi Note 13 Pro+ 5G / Redmi Note 13 Pro Plus",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "tanzanite",
+    "name": "Redmi Note 14 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "sea",
+    "name": "Redmi Note 14 4G / Redmi Note 12S",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "beryl",
+    "name": "Redmi Note 14 5G / POCO M7 Pro 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "obsidian",
+    "name": "Redmi Note 14 Pro 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "amethyst",
+    "name": "Redmi Note 14 Pro+ 5G / Redmi Note 14 Pro Plus 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "amethyst_jp",
+    "name": "Redmi Note 14 Pro+ 5G Japan",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "emerald_r",
+    "name": "Redmi Note 14S",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "spinel",
+    "name": "Redmi Note 15 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "kunzite",
+    "name": "Redmi Note 15 5G / POCO M8 5G / Redmi Note 15 Se 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "charoite",
+    "name": "Redmi Note 15 Pro 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "lapis",
+    "name": "Redmi Note 15 Pro 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "lapis_jp",
+    "name": "Redmi Note 15 Pro 5G Japan",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "flourite",
+    "name": "Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G / Redmi Note 15 Pro Plus 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "zephyr",
+    "name": "Redmi Note 17 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "iolite",
+    "name": "Redmi Note 17 Pro 5G / POCO X8",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "iolite_jp",
+    "name": "Redmi Note 17 Pro 5G / POCO X8 Japan",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "brussels",
+    "name": "Redmi Note 17 Pro Max 5G / POCO X8 Power",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "brussels_jp",
+    "name": "Redmi Note 17 Pro Max 5G Japan",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "gucci",
+    "name": "Redmi Note 1S 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "hermes",
+    "name": "Redmi Note 2",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "hennessy",
+    "name": "Redmi Note 3 (MTK) / Redmi Note 3 Mtk",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "kenzo",
+    "name": "Redmi Note 3 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "kate",
+    "name": "Redmi Note 3 SE",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "lcsh92_wet_jb9",
+    "name": "Redmi Note 3G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "mido",
+    "name": "Redmi Note 4",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "nikel",
+    "name": "Redmi Note 4 MTK",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "dior",
+    "name": "Redmi Note 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "whyred",
+    "name": "Redmi Note 5 / Note 5 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "ugglite",
+    "name": "Redmi Note 5A (2GB) / Redmi Note 5A 2Gb",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "ugg",
+    "name": "Redmi Note 5A Prime",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "tulip",
+    "name": "Redmi Note 6 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "violet",
+    "name": "Redmi Note 7 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "lavender",
+    "name": "Redmi Note 7/7S / Redmi Note 7 And 7S",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "ginkgo",
+    "name": "Redmi Note 8",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "biloba",
+    "name": "Redmi Note 8 (2021) / Redmi Note 8 2021",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "begonia",
+    "name": "Redmi Note 8 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "begoniain",
+    "name": "Redmi Note 8 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "willow",
+    "name": "Redmi Note 8T",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "lime",
+    "name": "Redmi Note 9 4G / Redmi 9 Power / Redmi 9T",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "cannon",
+    "name": "Redmi Note 9 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "joyeuse",
+    "name": "Redmi Note 9 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "gauguin",
+    "name": "Redmi Note 9 Pro 5G / Mi 10I / Mi 10T Lite",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "excalibur",
+    "name": "Redmi Note 9 Pro Max",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "cannong",
+    "name": "Redmi Note 9T",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "yunluo",
+    "name": "Redmi Pad",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "taiko",
+    "name": "Redmi Pad 2",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "koto",
+    "name": "Redmi Pad 2 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "flute",
+    "name": "Redmi Pad 2 Pro / POCO Pad M1",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "organ",
+    "name": "Redmi Pad 2 Pro 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "guitar",
+    "name": "Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "erhu",
+    "name": "Redmi Pad 2 SE 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "dizi",
+    "name": "Redmi Pad Pro / POCO Pad",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "ruan",
+    "name": "Redmi Pad Pro 5G / POCO Pad 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "xun",
+    "name": "Redmi Pad SE",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "spark",
+    "name": "Redmi Pad SE 8.7 4G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "flare",
+    "name": "Redmi Pad SE 8.7 5G",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "omega",
+    "name": "Redmi Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "ysl",
+    "name": "Redmi S2/Y2 / Redmi S2 And Y2",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "onyx",
+    "name": "Redmi Turbo 4 Pro / POCO F7",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "klee",
+    "name": "Redmi Turbo 5 / POCO X8 Pro",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "dash",
+    "name": "Redmi Turbo 5 Max / POCO X8 Pro Max",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "onc",
+    "name": "Redmi Y3",
+    "brand": "Redmi"
+  },
+  {
+    "codename": "tornado_jp",
+    "name": "TBD Japan",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "lisa",
+    "name": "Xiaomi 11 Lite 5G NE / Mi 11 Le",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "agate",
+    "name": "Xiaomi 11T",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "vili",
+    "name": "Xiaomi 11T Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "vili_jp",
+    "name": "Xiaomi 11T Pro Japan",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "cupid",
+    "name": "Xiaomi 12",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "taoyao",
+    "name": "Xiaomi 12 Lite",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "zeus",
+    "name": "Xiaomi 12 Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "daumier",
+    "name": "Xiaomi 12 Pro Dimensity",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "mayfly",
+    "name": "Xiaomi 12S",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "unicorn",
+    "name": "Xiaomi 12S Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "thor",
+    "name": "Xiaomi 12S Ultra",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "plato",
+    "name": "Xiaomi 12T",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "diting",
+    "name": "Xiaomi 12T Pro / Redmi K50 Ultra",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "diting_jp",
+    "name": "Xiaomi 12T Pro Japan",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "psyche",
+    "name": "Xiaomi 12X",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "fuxi",
+    "name": "Xiaomi 13",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "nuwa",
+    "name": "Xiaomi 13 Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "ishtar",
+    "name": "Xiaomi 13 Ultra",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "aristotle",
+    "name": "Xiaomi 13T",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "aristotle_jp",
+    "name": "Xiaomi 13T Japan",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "corot_jp",
+    "name": "Xiaomi 13T Pro Japan",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "houji",
+    "name": "Xiaomi 14",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "shennong",
+    "name": "Xiaomi 14 Pro / Xiaomi 14 Pro Ti Satellite",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "shennong_t",
+    "name": "Xiaomi 14 Pro Ti Satellite",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "shennongt",
+    "name": "Xiaomi 14 Pro Ti Satellite",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "aurora",
+    "name": "Xiaomi 14 Ultra",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "degas",
+    "name": "Xiaomi 14T",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "rothko_jp",
+    "name": "Xiaomi 14T Pro Japan",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "haotian",
+    "name": "Xiaomi 15 / Xiaomi 15 Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "dada",
+    "name": "Xiaomi 15 Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "xuanyuan",
+    "name": "Xiaomi 15 Ultra",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "dijun",
+    "name": "Xiaomi 15S Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "goya",
+    "name": "Xiaomi 15T",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "klimt",
+    "name": "Xiaomi 15T Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "klimt_jp",
+    "name": "Xiaomi 15T Pro Japan",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "pudding",
+    "name": "Xiaomi 17",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "byron",
+    "name": "Xiaomi 17 Max",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "pandora",
+    "name": "Xiaomi 17 Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "popsicle",
+    "name": "Xiaomi 17 Pro Max",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "nezha",
+    "name": "Xiaomi 17 Ultra",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "chagall",
+    "name": "Xiaomi 17T",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "warhol",
+    "name": "Xiaomi 17T Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "warhol_jp",
+    "name": "Xiaomi 17T Pro Japan",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "lhasa",
+    "name": "Xiaomi 18 Fold",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "hongkong",
+    "name": "Xiaomi 18 Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "hongkong_jp",
+    "name": "Xiaomi 18 Pro Japan",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "madrid",
+    "name": "Xiaomi 18 Pro Max",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "madrid_jp",
+    "name": "Xiaomi 18 Pro Max Japan",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "mona",
+    "name": "Xiaomi Civi",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "zijin",
+    "name": "Xiaomi Civi 1S",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "ziyi",
+    "name": "Xiaomi Civi 2 / 13 Lite / Xiaomi 13 Lite",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "yuechu",
+    "name": "Xiaomi Civi 3",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "chenfeng",
+    "name": "Xiaomi Civi 4 Pro / Xiaomi 14 Civi",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "luming",
+    "name": "Xiaomi Civi 5 Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "zizhan",
+    "name": "Xiaomi MIX Fold 2",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "nabu",
+    "name": "Xiaomi Pad 5",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "dagu",
+    "name": "Xiaomi Pad 5 Pro 12.4",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "enuma",
+    "name": "Xiaomi Pad 5 Pro 5G",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "elish",
+    "name": "Xiaomi Pad 5 Pro Wi-Fi",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "pipa",
+    "name": "Xiaomi Pad 6",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "yudi",
+    "name": "Xiaomi Pad 6 Max 14",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "liuqin",
+    "name": "Xiaomi Pad 6 Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "sheng",
+    "name": "Xiaomi Pad 6S Pro 12.4",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "uke",
+    "name": "Xiaomi Pad 7 / POCO Pad X1",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "muyu",
+    "name": "Xiaomi Pad 7 Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "jinghu",
+    "name": "Xiaomi Pad 7 Ultra",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "violin",
+    "name": "Xiaomi Pad 7S Pro 12.5",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "yupei",
+    "name": "Xiaomi Pad 8 / Xiaomi Pad 9",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "piano",
+    "name": "Xiaomi Pad 8 Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "shuntian",
+    "name": "Xiaomi Pad 9 Pro",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "yingtian",
+    "name": "Xiaomi Pad 9 Pro Max",
+    "brand": "Xiaomi"
+  },
+  {
+    "codename": "turner",
+    "name": "Xiaomi Pad Mini / Redmi K Pad",
+    "brand": "Xiaomi"
+  }
+]
